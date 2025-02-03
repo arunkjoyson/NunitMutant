@@ -25,7 +25,7 @@ namespace NUnitDemonstration.Tests
         public void IsIsosceles_TwoEqualSides_ReturnsIsosceles()
         {
             // Arrange
-            int side1 = 5, side2 = 6, side3 = 7;
+            int side1 = 5, side2 = 4, side3 = 7;
             string expectedMessage = "The triangle is isosceles.";
 
             // Act
